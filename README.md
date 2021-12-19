@@ -1,5 +1,8 @@
 # hse21_hw2
 
+## Ссылка
+https://colab.research.google.com/drive/1pO_Ch-zefDdyzEeYiOwy9F4QzTiV1ESA?usp=sharing
+
 ## Статистика
 
 Cколько было предсказано генов всего: 3571
